@@ -1,0 +1,5 @@
+﻿Tên 1 thư viện trong python là __
+a. Pygame
+b. Pymovie
+c. Pyoner
+d. Pyper

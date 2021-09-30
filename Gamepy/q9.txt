@@ -1,0 +1,5 @@
+Tên c?a 1 thu?t toán tìm ki?m là __
+a.Tìm ki?m nh? phân
+b.Tìm ki?m t? t?
+c.Tìm ki?m nhanh nhanh
+d.Tìm ki?m ki càng

@@ -1,0 +1,5 @@
+Ði?u ki?n xác d?nh s? ch?n n là __
+a.n%2==0
+b.n%2!=0
+c.n/2==0
+d.n/2!=0
